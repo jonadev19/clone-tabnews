@@ -1,2 +1,2 @@
 # clone-tabnews
-treino
+clon de la página [tabnews.br](https://www.tabnews.com.br/)
